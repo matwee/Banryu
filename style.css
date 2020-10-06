@@ -43,7 +43,7 @@ body{
 	min-height: 100vh;
 	position: relative;
 	background-color: #B00707;
-	font-family: montserrat;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 1.4em;
 }
 
@@ -58,9 +58,6 @@ h1,h2,h3,h4,li{
 p{
 	color: #e6e6e6;
 }
-
-/*fonts*/
-font-family: 'Montserrat', sans-serif;
 
 /*mobile styles*/
 
